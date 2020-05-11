@@ -145,8 +145,7 @@ blockquote {
 /* Hero */
 
 #infinite {
-	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+  background-image: url('https://images.pexels.com/photos/147634/pexels-photo-147634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -267,8 +266,7 @@ blockquote {
 
 /* Testimonials */
 #testimonials {
-  color: white;
-  background-image: url(../img/infinite-loop-02.jpg);
+  background-image: url('https://images.pexels.com/photos/567985/pexels-photo-567985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
