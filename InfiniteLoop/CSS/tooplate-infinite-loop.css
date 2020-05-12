@@ -63,14 +63,14 @@ blockquote {
 }
 
 .tm-btn-primary {
-  color: white;
+  color: black;
   background-color: #369;
   padding: 14px 30px;
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
-  color: white;
+  color: black;
   background-color: #38B;
 }
 
@@ -85,12 +85,12 @@ blockquote {
 }
 
 .tm-navbar.scroll {
-  background-color: white;
+  background-color:black;
   border-bottom: 1px solid #e9ecef;
 }
 
 .navbar-brand {
-  color: white;
+  color:te;
   font-size: 1.4rem;
   font-weight: bold;
 }
@@ -109,7 +109,7 @@ blockquote {
 }
 
 .tm-nav-link {
-  color: white;
+  color:white;
 }
 
 .tm-navbar.scroll .tm-nav-link {
@@ -226,7 +226,7 @@ blockquote {
 }
 
 .tm-down-arrow {
-  	color: #FFF;
+  	color: black;
     cursor: pointer;
     background: #357;
     padding: 15px 40px;
@@ -235,7 +235,7 @@ blockquote {
 
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
-  color: #FFF;
+  color:black;
   background: #37A;
   padding: 20px 50px;
 }
@@ -255,19 +255,9 @@ blockquote {
   font-size: 1.2rem;
 }
 
-.tm-icon {
-  display: block;
-  color: #37A;
-}
-
-.tm-continue {
-	padding: 20px 0 30px 0;
-}
-
-/* Testimonials */
 #testimonials {
-  background-image: url('https://images.pexels.com/photos/567985/pexels-photo-567985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-  background-size: cover;
+  background-image: url(../../Images/our_team_background.JPG);
+
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
@@ -275,7 +265,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-image: url(../../Images/our_team_background.JPG)
   }
 }
 
@@ -351,7 +341,7 @@ blockquote {
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
-  color: white;
+  color:white;
   opacity: 0.5;
 }
 
@@ -512,7 +502,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(https://images.pexels.com/photos/3034737/pexels-photo-3034737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
