@@ -1,2 +1,2 @@
-language = "java"
-run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java com/kigupta/mqtt/simple/Subscriber.java; java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main"
+language = "html"
+run = ""
